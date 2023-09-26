@@ -1,0 +1,10 @@
+
+.a1 {
+    color: green  ;
+    text-decoration: none; /* quita lo subrayado predeterminado del enlace */
+
+}
+.a1:hover{
+    color: red ;
+    text-decoration: none; /* quita lo subrayado predeterminado del enlace */
+}
